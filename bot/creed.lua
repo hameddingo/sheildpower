@@ -4,7 +4,7 @@ package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
 
 require("./bot/utils")
 
-VERSION = '1.0'
+VERSION = '2.0'
 
 -- This function is called when tg receive a msg
 function on_msg_receive (msg)
@@ -236,19 +236,18 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {138012635},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[Shield bot 2.3
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by : @SUD0_SHIELD_PoWeR
    〰〰〰〰〰〰〰〰
-   ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
+      our admins are : 
+@KinG_SuPeR_AdMiN_SHIELD
+
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -530,6 +529,11 @@ To tags the every one and sends your message at bottom
 
 You Can user both "!" & "/" for them
 می توانید از دو شکلک !  و / برای دادن دستورات استفاده کنید
+〰〰〰〰〰〰〰〰〰〰〰
+@tel_shield
+کانال رسمی بات و اتحاد شیلد
+〰〰〰〰〰〰〰〰〰〰〰
+🇸 🇭 🇮 🇪 🇱 🇩 ™
 
 ]]
 
