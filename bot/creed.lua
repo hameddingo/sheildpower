@@ -247,7 +247,7 @@ function create_config( )
    〰〰〰〰〰〰〰〰
       our admins are : 
 @KinG_SuPeR_AdMiN_SHIELD
-
+@WoW_admin_sheild_WoW
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
